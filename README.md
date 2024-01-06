@@ -10,7 +10,7 @@ Add this to your `pubspec.yaml` file
 
 ```yaml
 dependencies:
-  tree_view: ^0.0.1
+  tree_view_flutter: ^0.0.1
 ```
 
 And run
