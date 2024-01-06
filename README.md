@@ -3,9 +3,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Tree View
+
 A Flutter package for a fully customisable tree view
 
 ### Installing
+
 Add this to your `pubspec.yaml` file
 
 ```yaml
@@ -14,6 +16,7 @@ dependencies:
 ```
 
 And run
+
 ```sh
 flutter packages get
 ```
@@ -33,6 +36,7 @@ Desktop
 ```
 
 In this example
+
 1. `Resume.docx` and `Billing-Info.docx` are **Child** widgets with
    `documents` as the **Parent**.
 2. `documents`, `MeetingReport.xls`, `MeetingReport.xls` and `Demo.zip`
@@ -41,6 +45,7 @@ In this example
 The `TreeView` would look like this
 
 ```dart
+
 var treeView = TreeView(
   parentList: [
     Parent(
@@ -66,5 +71,17 @@ var treeView = TreeView(
 );
 ```
 
+# 📃 License
+
+    Copyright (c) 2024 Asad Khan
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
+
 #### Sample
+
 <a href="https://imgur.com/d4n4p1b"><img src="https://i.imgur.com/d4n4p1b.gif" title="source: imgur.com" /></a>
