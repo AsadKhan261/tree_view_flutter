@@ -6,13 +6,19 @@
 
 A Flutter package for a fully customisable tree view
 
+#### Sample
+
+<a href="https://imgur.com/d4n4p1b"><img src="https://i.imgur.com/d4n4p1b.gif" title="source: imgur.com" /></a>
+
+
+
 ### Installing
 
 Add this to your `pubspec.yaml` file
 
 ```yaml
 dependencies:
-  tree_view_flutter: ^0.0.1
+  tree_view_flutter: ^1.0.2
 ```
 
 And run
@@ -82,6 +88,3 @@ var treeView = TreeView(
     copies of the Software, and to permit persons to whom the Software is
     furnished to do so, subject to the following conditions:
 
-#### Sample
-
-<a href="https://imgur.com/d4n4p1b"><img src="https://i.imgur.com/d4n4p1b.gif" title="source: imgur.com" /></a>

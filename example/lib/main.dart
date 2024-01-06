@@ -2,7 +2,7 @@ import 'package:example/models/document.dart';
 import 'package:example/widgets/directory_widget.dart';
 import 'package:example/widgets/file_widget.dart';
 import 'package:flutter/material.dart';
-import 'package:tree_view_flutter/tree_view.dart';
+import 'package:tree_view_flutter/tree_view_flutter.dart';
 
 
 void main() => runApp(MainApplication());
